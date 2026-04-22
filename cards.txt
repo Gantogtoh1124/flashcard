@@ -3,9 +3,4 @@ What is the capital of Mongolia?|Ulaanbaatar
 When was Java created?|1995
 1+1=?|2
 What does HTTP stand for?|HyperText Transfer Protocol
-What does OOP stand for?|Object Oriented Programming
-What is the largest planet?|Jupiter
-What language is Android built with?|Java
-What does CPU stand for?|Central Processing Unit
-What does RAM stand for?|Random Access Memory
-What is the speed of light?|299792458 m/s
+
