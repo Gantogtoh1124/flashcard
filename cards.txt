@@ -1,6 +1,8 @@
 # Flashcard file - format: question|answer
 What is the capital of Mongolia?|Ulaanbaatar
-When was Java created?|1995
-1+1=?|2
-What does HTTP stand for?|HyperText Transfer Protocol
+What is the capital of France?|Paris
+What is the capital of Japan?|Tokyo
+What is the capital of Germany?|Berlin
+What is the capital of Australia?|Canberra
+What is the capital of Brazil?|Brasilia
 
